@@ -46,6 +46,8 @@ any check for placing one ship above one other, but a real-time grid is availabl
 (when he places his ships) in order to avoid this potential issue. Hence, each player has to place
 his own ships using only the appropriate coordinates. <br />
 
+# Run
+
 In order to compile my code I used gcc compiler for Linux (Ubuntu) operating system and I invoked the
 below command: <br />
 g++ GameOverCheck.cpp InputAttack.cpp InputShipPosition.cpp MAIN.cpp RESET.cpp SHOW.cpp -o
