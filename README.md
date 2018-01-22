@@ -50,5 +50,6 @@ In order to compile my code I used gcc compiler for Linux (Ubuntu) operating sys
 below command: <br />
 g++ GameOverCheck.cpp InputAttack.cpp InputShipPosition.cpp MAIN.cpp RESET.cpp SHOW.cpp -o
 MAIN <br />
+<br />
 and then in order to execute it, the command: <br />
 ./MAIN
